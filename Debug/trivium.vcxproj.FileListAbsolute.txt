@@ -1,0 +1,2 @@
+C:\ProyectosEspecialidad\trivium\trivium\Debug\trivium.exe
+C:\ProyectosEspecialidad\trivium\trivium\Debug\trivium.pdb
